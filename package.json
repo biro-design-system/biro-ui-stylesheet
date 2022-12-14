@@ -1,0 +1,17 @@
+{
+  "name": "kuroji-biro-ui",
+  "version": "1.0.0",
+  "author": "Kerby Keith Aquino <94678583+skepfusky@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "watch": "sass src:dist --watch"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "postcss-cli": "^10.1.0",
+    "postcss-sass": "^0.5.0",
+    "sass": "^1.56.2",
+    "stylelint": "^14.16.0",
+    "stylelint-config-standard": "^29.0.0"
+  }
+}

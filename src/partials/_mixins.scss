@@ -1,0 +1,11 @@
+// Headings
+@mixin gradient-line() {
+  background-repeat: no-repeat;
+  background-size: 100% var(--heading-block-size, 32%);
+  background-position: 0 88%;
+  background-image: linear-gradient(
+    var(--heading-block-rotation, 45deg),
+    var(--heading-block-from, #124778),
+    var(--heading-block-to, #7113b9)
+  );
+}
