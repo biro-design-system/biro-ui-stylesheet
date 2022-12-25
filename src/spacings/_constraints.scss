@@ -1,0 +1,40 @@
+// Fixed
+$sp-xs: 0.125rem;
+$sp-sm: 0.25rem;
+$sp-md: 0.5rem;
+$sp-lg: 0.75rem;
+$sp-xl: 1rem;
+$sp-2xl: 1.25rem;
+$sp-3xl: 1.5rem;
+$sp-4xl: 1.75rem;
+$sp-5xl: 2rem;
+$sp-6xl: 2.25rem;
+$sp-7xl: 2.5rem;
+$sp-8xl: 2.75rem;
+$sp-9xl: 3rem;
+
+// Relative
+$sp-half: 50%;
+$sp-full: 100%;
+$sp-screen-width: 100vw;
+$sp-screen-height: 100vh;
+
+$sp-auto: auto;
+$sp-max: max-content;
+$sp-fit: fit-content;
+$sp-min: min-content;
+
+// 1/n
+$sp-1_2: $sp-half;
+$sp-1_3: 33%;
+$sp-1_4: 25%;
+$sp-1_5: 20%;
+$sp-1_6: 16.664%;
+
+// 2/n
+$sp-2_3: 66.667%;
+$sp-2_4: $sp-half;
+$sp-2_5: 40%;
+
+// 3/n
+$sp-3_4: 75%;

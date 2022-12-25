@@ -1,0 +1,12 @@
+@use "../partials" as *;
+
+.gradient-line-block {
+	display: block;
+	width: fit-content;
+	@include gradient-line();
+}
+
+.gradient-line-inline {
+	display: inline;
+	@include gradient-line();
+}
